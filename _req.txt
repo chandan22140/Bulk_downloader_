@@ -1,0 +1,13 @@
+docx2pdf
+Selenium
+telebot
+PyPDF2
+fpdf
+aspose-words
+comtypes
+google-api-python-client
+google_auth_oauthlib
+fpdf2
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
